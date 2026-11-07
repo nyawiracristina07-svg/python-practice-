@@ -79,3 +79,5 @@ print("Name\tAda  Age\t36")
 a, b, c = 12, 15, 18
 average = (a + b + c) / 3
 print(average)
+
+
