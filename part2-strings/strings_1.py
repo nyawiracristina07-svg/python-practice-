@@ -51,8 +51,8 @@ print(f"Next year,{name} will be {age + 1 }")
 #7 --crazyshiet 
 price = 1234.5678
 rate = 0.0825
-print(f"{round(price,2)}, {round(price,2):,}, {rate:.1%} [{price:>12.2}]")
-
+print(f"{round(price,2)}, {round(price,2):,}, {rate:.1%} [{price:>12.2f}]")
+# the f-- stands for fixed point notation !
 
 #8
 #how can see all the methods available for a string object?
