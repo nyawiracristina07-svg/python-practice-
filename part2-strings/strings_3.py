@@ -19,7 +19,7 @@ else:
 #3
 #split conversts a string into a list and title only works on strings not lists 
 #come back 
-name = input("type your full name: ").title().split()
+name = input("type your full name: ").title().strip()
 print(" ".join(name))
 
 #4
